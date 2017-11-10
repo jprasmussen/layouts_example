@@ -1,0 +1,11 @@
+pickles:
+  label: Pickles
+  category: Custom
+  template: templates/pickles
+  regions:
+    dill:
+      label: Dill
+    gherkin:
+      label: Gherkin
+    kosher:
+      label: Kosher
